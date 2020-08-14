@@ -9,7 +9,11 @@ With degrees in Mechanical Engineering from France (my home country) and Canada,
 
 Computationally curious, and it’s not up for debate.
 
-## Medium Blog [@pierremtb](https://medium.com/@pierremtb) 🖊
+## YouTube videos [c/pierrejacquierfr](https://www.youtube.com/c/pierrejacquierfr) 📹
+- [Controlling your Electric Kettle [Zero to Product! Ep 1]](https://www.youtube.com/watch?v=Byyu8vOiqNM)
+- [A Wireless Charging Stand for the Essential Phone [Zero to Product! Ep 2]](https://www.youtube.com/watch?v=fZ0Lp-whHrE)
+
+## Medium blog [@pierremtb](https://medium.com/@pierremtb) 🖊
 A few highlights
 - [Calm after Storm, the Emptiness of Completing](https://byrslf.co/calm-after-storm-the-emptiness-of-completing-a6cc2c06e790)
 - [8 Killer Habits That Made Last Month So Productive](https://medium.com/swlh/8-killer-habits-that-made-last-month-so-productive-cc4e6d64e1a4)
@@ -20,3 +24,8 @@ A few highlights
 ## Publications 📙
 Applying AI tools to Computational Mechanics was at the core of my thesis.
 - [Preprint](https://pierrejacquier.com/POD-UQNN/): _"Non-Intrusive Reduced-Order Modeling Using Uncertainty-Aware Deep Neural Networks and Proper Orthogonal Decomposition: Application to Flood Modeling"_, Pierre Jacquier, Azzedine Abdedou, Vincent Delmas, Azzeddine Soulaimani.
+
+## Some tech projects ⌨️
+- [Parse your .FIT files easily, directly from JS](https://github.com/pierremtb/easy-fit)
+- [Cross-platform Material Design calculator for the Liri linux distribution](https://github.com/lirios/calculator)
+
