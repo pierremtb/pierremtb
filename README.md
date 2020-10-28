@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-Welcome to my GitHub! It's a place of experimentation which had a lot to do with my passion for programming and tech.
-
-I am currently a Systems Engineer at @VehicleMind, a Montreal-based startup on a mission to disrupt the way we think about car maintenance.
-
-
-With degrees in Mechanical Engineering from France (my home country) and Canada, I'm working hard to reach a point of cross-functional understanding of products, with the ultimate goal of launching some.
-
+I am currently a Junior Hardware Engineer at Algolux, a Montreal-based company focused on robust perception in all conditions for autonomous vehicles or ADAS systems.
+With degrees in Mechanical Engineering from France (my home country) and Canada plus a huge interest for software and cool tech, I'm working hard to reach a point of cross-functional understanding of products, with the ultimate goal of launching some.
 Computationally curious, and it’s not up for debate.
+
+Please drop me a line: meet at pierre dot coffee 
 
 ## YouTube videos [c/pierrejacquierfr](https://www.youtube.com/c/pierrejacquierfr) 📹
 - [Controlling your Electric Kettle [Zero to Product! Ep 1]](https://www.youtube.com/watch?v=Byyu8vOiqNM)
