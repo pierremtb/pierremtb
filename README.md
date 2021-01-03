@@ -13,6 +13,7 @@ Please drop me a line: meet at pierre dot coffee
 ### Some coding stuff ⌨️
 - [Parse your .FIT files easily, directly from JS](https://github.com/pierremtb/easy-fit)
 - [Cross-platform Material Design calculator for the Liri linux distribution](https://github.com/lirios/calculator)
+### ... more in [my open _Side Projects_ Notion Database](https://www.notion.so/20014f1dbb054ba6a1967d6578bfe493?v=cb7033d9aeeb43728d03394bc6d05d01)!
 
 ## Medium blog [@pierremtb](https://medium.com/@pierremtb) 🖊
 A few highlights
