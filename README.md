@@ -14,10 +14,6 @@ Please drop me a line: meet at pierre dot coffee
 - [Parse your .FIT files easily, directly from JS](https://github.com/pierremtb/easy-fit)
 - [Cross-platform Material Design calculator for the Liri linux distribution](https://github.com/lirios/calculator)
 
-## Journal Publication 📙
-Applying AI tools to Computational Mechanics was at the core of my thesis.
-- [Preprint](https://pierrejacquier.com/POD-UQNN/): _"Non-Intrusive Reduced-Order Modeling Using Uncertainty-Aware Deep Neural Networks and Proper Orthogonal Decomposition: Application to Flood Modeling"_, Pierre Jacquier, Azzedine Abdedou, Vincent Delmas, Azzeddine Soulaimani.
-
 ## Medium blog [@pierremtb](https://medium.com/@pierremtb) 🖊
 A few highlights
 - [Calm after Storm, the Emptiness of Completing](https://byrslf.co/calm-after-storm-the-emptiness-of-completing-a6cc2c06e790)
@@ -26,4 +22,6 @@ A few highlights
 - [How I Became a Morning Person in One Week](https://byrslf.co/how-i-became-a-morning-person-in-one-week-ffe46d9e2e05)
 - [Developing Android Apps, right on your Chromebook](https://android.jlelse.eu/developing-android-apps-right-on-your-chromebook-f3a00cb78e0e)
 
-
+## Journal Publication 📙
+Applying AI tools to Computational Mechanics was at the core of my thesis.
+- [Preprint](https://pierrejacquier.com/POD-UQNN/): _"Non-Intrusive Reduced-Order Modeling Using Uncertainty-Aware Deep Neural Networks and Proper Orthogonal Decomposition: Application to Flood Modeling"_, Pierre Jacquier, Azzedine Abdedou, Vincent Delmas, Azzeddine Soulaimani.
