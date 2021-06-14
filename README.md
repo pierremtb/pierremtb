@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently a Junior Hardware Engineer at [Algolux](https://algolux.com), a Montreal-based company focused on robust perception in all conditions for autonomous vehicles or ADAS systems.
+I am currently a Junior Software/Hardware Engineer at [Algolux](https://algolux.com), a Montreal-based company focused on robust perception in all conditions for autonomous vehicles or ADAS systems.
 With degrees in Mechanical Engineering from France (my home country) and Canada plus a huge interest for software and cool tech, I'm working hard to reach a point of cross-functional understanding of products, with the ultimate goal of launching some.
 Computationally curious, and it’s not up for debate.
 
