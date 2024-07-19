@@ -1,6 +1,6 @@
 ### **Hi there 👋**
 
-Name's Pierre Jacquier (as French as it gets), I am currently a Tech Lead at [Torc Robotics](https://torc.ai), a US-based company focused on long-haul autonomous trucks. With degrees in Mechanical Engineering from France and Canada plus a huge interest in software and cool tech, I'm working hard to reach a point of cross-functional understanding of products, with the ultimate goal of launching some. Computationally curious, and it’s not up for debate.
+Name's Pierre Jacquier (as French as it gets), I currently work as a Technical Product Manager at [Torc Robotics](https://torc.ai), a US-based company focused on long-haul autonomous trucks. With degrees in Mechanical Engineering from France and Canada plus a huge interest in software and cool tech, I'm working hard to reach a point of cross-functional understanding of products, with the ultimate goal of launching some. Computationally curious, and it’s not up for debate.
 
 Drop me a line: meet at pierre dot coffee ☕
 
@@ -8,9 +8,9 @@ Or DM at [twitter.com/PierreJacquier](http://twitter.com/PierreJacquier) 🐦
 
 Back to the standard homepage: [pierrejacquier.com](http://pierrejacquier.com) 🏠
 
-# **Some coding stuff [@pierremtb](https://github.com/pierremtb)**
+# **Coding stuff [@pierremtb](https://github.com/pierremtb)**
 
-- [Shortline](https://www.notion.so/Shortline-35731134dee8460abc9872f345ee3999): Git as a version control tool for Mechanical CAD
+- [Shortline](https://www.notion.so/Shortline-35731134dee8460abc9872f345ee3999): Git as a version control tool for Mechanical CAD, turned into a contracting gig at https://zoo.dev
 - [Google Calendar as a timesheet tool](https://pierrejacquier.com/week-progress/)
 - [TensorFlow 2.0 implementation of Physics-Informed NNs](https://github.com/pierremtb/PINNs-TF2.0)
 - [Parse your .FIT files easily, directly from JS](https://github.com/pierremtb/easy-fit)
