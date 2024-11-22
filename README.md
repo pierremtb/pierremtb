@@ -1,6 +1,6 @@
 ### **Hi there 👋**
 
-Name's Pierre Jacquier (French for [jackfruit](https://en.wikipedia.org/wiki/Jackfruit)), I currently work as a Technical PM at [Torc Robotics](https://torc.ai), a US-based autonomous long-haul trucking company. With degrees in Mechanical Engineering plus a huge interest in software and cool tech, I'm working hard to reach a point of cross-functional understanding of products. Computationally curious, and it’s not up for debate.
+Name's Pierre Jacquier (French for [jackfruit](https://en.wikipedia.org/wiki/Jackfruit)), I currently work as an engineer at [zoo.dev](https://zoo.dev), building new CAD software for hardware design. With degrees in Mechanical Engineering plus a huge interest in software and cool tech, I'm working hard to reach a point of cross-functional understanding of products. Computationally curious, and it’s not up for debate.
 
 Drop me a line: meet at pierre dot coffee ☕
 
