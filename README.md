@@ -10,7 +10,7 @@ Back to the standard homepage: [pierrejacquier.com](http://pierrejacquier.com) ð
 
 # **Coding stuff [@pierremtb](https://github.com/pierremtb)**
 
-- [Shortline](https://www.notion.so/Shortline-35731134dee8460abc9872f345ee3999): Git as a version control tool for Mechanical CAD, turned into a consulting role at [zoo.dev: infrastructure for hardware design](https://zoo.dev).
+- [Shortline](https://www.notion.so/Shortline-35731134dee8460abc9872f345ee3999): Git as a version control tool for Mechanical CAD, turned into my current role at [zoo.dev](https://zoo.dev).
 - [Google Calendar as a timesheet tool](https://pierrejacquier.com/week-progress/)
 - [TensorFlow 2.0 implementation of Physics-Informed NNs](https://github.com/pierremtb/PINNs-TF2.0)
 - [Parse your .FIT files easily, directly from JS](https://github.com/pierremtb/easy-fit)
